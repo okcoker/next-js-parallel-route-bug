@@ -8,6 +8,5 @@ These pages do not throw the error locally OR when running the production build 
 
 This seemingly started happening in Next.js v15 after migrating from v14
 
-
-
-
+Next.js 14 test URL: https://next-js-parallel-route-bug-git-next14-sean-cokers-projects.vercel.app/
+Next.js 15 test URL: https://next-js-parallel-route-bug.vercel.app/
