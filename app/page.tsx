@@ -37,7 +37,7 @@ export default function Home() {
           Example dynamic segment: Link to intercepted route with root (...)
           marker inside dynamic segment
           <br />
-          ✅ dev <br />❌ vercel
+          ✅ dev <br />✅ vercel
         </Link>
       </main>
     </div>
