@@ -22,11 +22,20 @@ export default function Home() {
           ❌ dev <br />❌ vercel
         </Link>
         <Link
+          href="/example3"
+          className="bg-gray-800 hover:bg-gray-700 rounded-md p-3"
+        >
+          Example 3: Link to new intercepted route component using with root
+          (...) marker
+          <br />
+          ❌ dev <br />❌ vercel
+        </Link>
+        <Link
           href="/my-username"
           className="bg-gray-800 hover:bg-gray-700 rounded-md p-3"
         >
-          Example 3: Link to intercepted route with root (...) marker inside
-          dynamic segment
+          Example dynamic segment: Link to intercepted route with root (...)
+          marker inside dynamic segment
           <br />
           ✅ dev <br />❌ vercel
         </Link>
