@@ -31,6 +31,15 @@ export default function Home() {
           ❌ dev <br />❌ vercel
         </Link>
         <Link
+          href="/example4"
+          className="bg-gray-800 hover:bg-gray-700 rounded-md p-3"
+        >
+          Example 4: Link to new intercepted route component using with root (.)
+          marker, reimporting photo/[id] folder
+          <br />
+          ❌ dev <br />❌ vercel
+        </Link>
+        <Link
           href="/my-username"
           className="bg-gray-800 hover:bg-gray-700 rounded-md p-3"
         >
